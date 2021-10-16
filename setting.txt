@@ -1,0 +1,1 @@
+{"mapItemId":1,"mapItemIdMin":1,"mapItemIdMax":60000}
